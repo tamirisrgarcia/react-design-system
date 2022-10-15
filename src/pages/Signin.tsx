@@ -37,7 +37,7 @@ export function Signin() {
           </Text>
         </header>
   
-        <form onClick={handleSignin} className='flex flex-col items-stretch w-full max-w-sm mt-10 gap-4'>
+        <form onSubmit={handleSignin} className='flex flex-col items-stretch w-full max-w-sm mt-10 gap-4'>
            { isUserSignedIn && <Text>Login realizado!</Text> }
           
           <label htmlFor='email' className='flex flex-col gap-3'>
