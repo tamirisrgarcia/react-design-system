@@ -1,4 +1,4 @@
-# react-design-system
+# Ignite Lab - Design System
 
 Projeto desenvolvido durante o Ignite Lab da Rocketseat.
 
