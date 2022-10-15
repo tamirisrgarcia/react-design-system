@@ -5,7 +5,7 @@ import { expect } from '@storybook/jest'
 import { Signin } from './Signin'
 
 export default {
-    title: 'Pages/Signin',
+    title: 'Pages/Sign in',
     component: Signin,
     args: {},
     argTypes: {},
