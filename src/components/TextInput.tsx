@@ -14,6 +14,8 @@ function TextInputRoot(props: TextInputRootProps) {
     )
 }
 
+TextInputRoot.displayName = 'TextInput.Root'
+
 export interface TextInputIconProps {
     children: ReactNode
 }
@@ -26,7 +28,7 @@ function TextInputIcon(props: TextInputIconProps) {
     )
 }
 
-
+TextInputIcon.displayName = 'TextInput.Icon'
 
 export interface TextInputInputProps extends InputHTMLAttributes<HTMLInputElement> {}
 
@@ -38,6 +40,8 @@ function TextInputInput(props: TextInputInputProps) {
         />
     )
 }
+
+TextInputInput.displayName = 'TextInput.Input'
 
 export const TextInput = {
     Root: TextInputRoot,
