@@ -14,3 +14,5 @@ Principais tecnologias utilizadas:
 
 
 ![image](https://user-images.githubusercontent.com/87827996/195967031-01a034f0-4ec2-41e9-85bc-9166ccf0e931.png)
+
+![image](https://user-images.githubusercontent.com/87827996/195967556-7a091fe2-520c-4ce0-b037-269b9e085b75.png)
