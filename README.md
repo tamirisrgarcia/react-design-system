@@ -6,7 +6,7 @@ Principais tecnologias utilizadas:
 - React
 - Typescript
 - Vite
-- TailwindCss
+- TailwindCSS
 - Figma
 - Storybook
 - Jest
