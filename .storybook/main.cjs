@@ -21,7 +21,7 @@ module.exports = {
     "../public"
   ],
   viteFinal: (config, { configType }) => {
-    if(configType == 'PRODUCTION') {
+    if(configType === 'PRODUCTION') {
       config.base = '/react-design-system/'
     }
 
