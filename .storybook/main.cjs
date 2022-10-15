@@ -20,11 +20,11 @@ module.exports = {
   "staticDirs": [
     "../public"
   ],
-  /*viteFinal: (config, { configType }) => {
+  viteFinal: (config, { configType }) => {
     if(configType === 'PRODUCTION') {
       config.base = '/react-design-system/'
     }
 
     return config
-  }*/
+  }
 }

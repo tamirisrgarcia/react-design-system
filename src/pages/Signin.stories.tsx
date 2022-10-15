@@ -12,7 +12,7 @@ export default {
     parameters: {
         msw: {
             handlers: [
-                rest.post('/session', (req, res, ctx) => {
+                rest.post('/sessions', (req, res, ctx) => {
                     return res(ctx.json({
                         message: 'Login realizado!'
                     }))
